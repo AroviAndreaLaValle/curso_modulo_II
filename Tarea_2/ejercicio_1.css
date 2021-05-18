@@ -1,0 +1,32 @@
+.caja_contenedora{
+    display: flex;
+    flex-direction:column;
+    align-items: flex-end;
+    margin: auto;
+    margin-top: 150px;
+    width: 600px;
+    height: 600px;
+    border: solid 2px black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    line-height: 180px;   
+}
+
+.caja_1{
+    background-color: red;
+    width: 200px;
+    height: 200px;   
+}
+
+.caja_2{
+    background-color: blue;
+    width: 200px;
+    height: 200px; 
+}
+
+.caja_3{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
