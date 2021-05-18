@@ -1,0 +1,79 @@
+
+
+h1{
+    background: -webkit-linear-gradient(top, #efc5ca 0%,#d24b5a 50%,#ba2737 51%,#f18e99 100%); 
+    /*background: linear-gradient(to bottom, lightcoral, white);*/
+    color: beige;
+    font-style: oblique;
+    border-radius: 10px ;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border: solid 2px;
+    border-color:  lightcoral;
+    box-shadow: 0px 5px 10px #d24b5a;
+    border-radius: 50%;/*10px ;*/
+}
+
+h4{
+    background-color:lightpink;
+    color:purple;
+}
+
+a{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+p{
+    column-count: 4;
+    column-gap: 40px;
+    font-style: oblique;
+    color:slategrey;
+    text-align: justify;
+    font-family: 'Original Surfer', cursive;
+}
+
+
+/*span{
+    color: lightcoral;
+}*/
+
+ol{
+    color:orangered;
+}
+
+ul{
+    color: mediumvioletred;
+}
+
+.aenform{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color:deeppink;
+    font-weight: bold;
+
+}
+.enviar{
+    color:mediumseagreen;
+    font-weight: bold;
+}
+
+.borrar{
+    color:crimson;
+    font-weight: bold;
+}
+
+textarea{
+    background-color:lavender;
+}
+input{
+    font-family:'Times New Roman', Times, serif ;
+    font-style:italic;
+    font-size: 15px;
+    color:dimgrey;
+}
